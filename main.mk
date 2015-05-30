@@ -57,4 +57,3 @@ PRODUCT_COPY_FILES += \
     vendor/disco/overlay/system/media/audio/ui/VideoRecord.ogg:system/media/audio/ui/VideoRecord.ogg \
     vendor/disco/overlay/system/media/audio/ui/VideoStop.ogg:system/media/audio/ui/VideoStop.ogg \
     vendor/disco/overlay/system/media/audio/ui/WirelessChargingStarted.ogg:system/media/audio/ui/WirelessChargingStarted.ogg
-
