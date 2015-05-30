@@ -1,4 +1,4 @@
-ODUCT_BRAND ?= disco
+PRODUCT_BRAND ?= projectdisco
 
 # define disco version
 DISCO_VERSION := 1.8
